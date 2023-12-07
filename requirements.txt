@@ -1,0 +1,8 @@
+argparse
+streamlit
+pandas
+plotly
+graphviz
+user-agents
+pycountry-convert
+tabulate
